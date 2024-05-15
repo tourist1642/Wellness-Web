@@ -46,6 +46,13 @@ Before starting, ensure you have the following installed on your system:
    ```
    pip install -r requirements.txt
    ```
+   **Note:** If psycopg2-binary==2.9.6 is not supported or the package is expired, please ignore it and proceed with the next steps.
+   ```
+   pip install django
+   ```
+   ```
+   pip install Pillow
+   ```
 6. Perform database migrations:
    ```
    python manage.py migrate
