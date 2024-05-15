@@ -1,7 +1,3 @@
-Certainly! Below is the revised README.md file:
-
----
-
 # Wellness Web: Health Blog Platform
 
 ## Objective:
@@ -61,5 +57,3 @@ Run the development server with the following command:
 python manage.py runserver
 ```
 Once the server is running, access the Wellness Web platform at http://localhost:8000 in your web browser.
-
----
