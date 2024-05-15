@@ -29,11 +29,11 @@ Before starting, ensure you have the following installed on your system:
 ## Installation:
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/yadavvishal/Health-Blog-Platform.git
+   git clone https://github.com/tourist1642/Wellness-Web.git
    ```
 2. Navigate to the project directory:
    ```
-   cd Health-Blog-Platform
+   cd Wellness-Web
    ```
 3. Create a virtual environment:
    ```
